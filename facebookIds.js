@@ -1,0 +1,4 @@
+const facebookAccount = {
+    login: "",
+    password: "",
+}
